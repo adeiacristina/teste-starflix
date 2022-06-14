@@ -1,3 +1,3 @@
 # Starflix
 
-![descrição da imagem](http://url/to/img.png)
+![descrição da imagem](public/static/images/logo.svg)
